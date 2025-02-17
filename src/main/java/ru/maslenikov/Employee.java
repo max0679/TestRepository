@@ -5,4 +5,6 @@ public class Employee {
     private int ageNew;
 
     private String newName;
+
+    private int newAgee;
 }
