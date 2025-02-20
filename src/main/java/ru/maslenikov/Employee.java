@@ -7,4 +7,6 @@ public class Employee {
     private String newName;
 
     private int newAgee;
+
+    private int fromMaster;
 }
