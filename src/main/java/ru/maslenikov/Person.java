@@ -18,4 +18,5 @@ public class Person {
     private int id5;
 
     private int fromLocal;
+    private int aga;
 }
